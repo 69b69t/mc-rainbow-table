@@ -1,3 +1,6 @@
+//shamelessly stolen from https://github.com/Horkyze/CudaSHA256/blob/master/sha256.cuh
+
+
 #ifndef SHA256_H
 #define SHA256_H
 
